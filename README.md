@@ -9,8 +9,8 @@ A simple Java Swing + MySQL application to manage book records.
 5)Clear input fields<br>
 
 # Technologies Used 🛠️
-Java (Swing for GUI)
-JDBC (MySQL database connection)
+Java (Swing for GUI)<br>
+JDBC (MySQL database connection)<br>
 MVC architecture (Book, BookDao, and BookMangement)
 
 # How to Run💻
