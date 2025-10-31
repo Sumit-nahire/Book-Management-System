@@ -2,11 +2,11 @@
 A simple Java Swing + MySQL application to manage book records.
 
 # Features 🚀 
-Add new books (ID, name, author, price)
-Update book price
-Delete a book record
-Search book details
-Clear input fields
+1)Add new books (ID, name, author, price)<br>
+2)Update book price<br>
+3)Delete a book record<br>
+4)Search book details<br>
+5)Clear input fields<br>
 
 # Technologies Used 🛠️
 Java (Swing for GUI)
